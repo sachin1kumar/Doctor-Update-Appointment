@@ -1,6 +1,6 @@
-package com.doctor.appointments.doctorappointments.repositories;
+package com.doctor.appointments.flag.updatedoctorappointmentsfalg.repositories;
 
-import com.doctor.appointments.doctorappointments.model.DoctorAppointments;
+import com.doctor.appointments.flag.updatedoctorappointmentsfalg.model.DoctorAppointments;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

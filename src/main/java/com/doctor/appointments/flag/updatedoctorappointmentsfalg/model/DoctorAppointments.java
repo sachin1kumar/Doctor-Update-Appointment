@@ -1,4 +1,4 @@
-package com.doctor.appointments.doctorappointments.model;
+package com.doctor.appointments.flag.updatedoctorappointmentsfalg.model;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 
